@@ -28,11 +28,8 @@ module.exports = {
     "ignorePatterns": [
         "dist",
         "node_modules",
-    ],
-
-    "include": [
-        "test/**/*.ts",
-        ".eslintrc.js"
-    ],
+        ".eslintrc.js",
+        "test"
+    ]
     
 }
